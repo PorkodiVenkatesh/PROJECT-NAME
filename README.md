@@ -5,7 +5,7 @@
 Here goes your awesome project description!
 
 ## Technologies Used
-
+ 
 * Tech 1 - Java 1.8
 * Tech 2 - version 2.0
 * Tech 3 - version 3.0
